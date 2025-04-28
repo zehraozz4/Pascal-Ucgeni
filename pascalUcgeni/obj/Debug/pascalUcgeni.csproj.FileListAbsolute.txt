@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\c#\pascalUcgeni\pascalUcgeni\obj\Debug\pascalUcgeni.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\pascalUcgeni\pascalUcgeni\obj\Debug\pascalUcgeni.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\pascalUcgeni\pascalUcgeni\bin\Debug\pascalUcgeni.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\c#\pascalUcgeni\pascalUcgeni\bin\Debug\pascalUcgeni.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\pascalUcgeni\pascalUcgeni\bin\Debug\pascalUcgeni.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\c#\pascalUcgeni\pascalUcgeni\obj\Debug\pascalUcgeni.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\pascalUcgeni\pascalUcgeni\obj\Debug\pascalUcgeni.pdb
